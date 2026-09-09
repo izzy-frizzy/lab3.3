@@ -1,0 +1,79 @@
+body,html{
+ position: relative;
+ width: 100vw;
+ height: 100vh;
+ padding: 0px;
+ font-family: serif;
+ background: hsl(47, 88%, 63%);
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ color: hsl(0, 0%, 7%);
+ overflow-x: hidden;
+ justify-content: center;
+
+}
+/* .card-container{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    border:solid 1px hsl(0, 0%, 7%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    padding: 10px;
+    box-shadow: 10px 10px;
+    font-weight: 500, 800;
+}
+#learning{
+    background-color: hsl(47, 88%, 63%);
+    border-radius: 5px;
+    padding: 5px;
+    align-self: flex-start;
+}
+#published{
+    align-self: flex-start;
+
+}
+h1:hover{
+   color: hsl(47, 88%, 63%);
+
+} 
+#para{
+    color: hsl(0, 0%, 42%);
+}
+
+#design{
+    width:280px;
+    border-radius: 5px;
+}
+.profile{
+    display: flex;
+    align-self: flex-start;
+    align-items: center;
+}
+.profile p{
+padding: 5px;
+font-weight: bold;
+}
+#profile-pic{
+    width: 40px;
+    height: 40px;
+   
+}
+@media screen and (width < 600px){
+    .card-container{
+        width: 250px;
+    }
+    #design{
+        width: 250px;
+    }
+} */
+.attribution {
+     font-size: 0.6875rem; text-align: center;
+     margin-top: 10px;
+
+    }
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
